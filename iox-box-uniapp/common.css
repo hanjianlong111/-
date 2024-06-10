@@ -1,0 +1,139 @@
+.f8container {
+	background-color: #F8F8F8;
+	padding: 40rpx;
+	border-radius: 40rpx 40rpx 0 0;
+	margin-top: 40rpx;
+}
+
+.uv-input {
+	border-radius: 42rpx !important;
+	background-color: #FFFFFF !important;
+}
+
+.input-placeholder {
+	color: #999999 !important;
+	font-size: 26rpx;
+}
+
+.uv-form-item__body__right__message {
+	margin-left: 26rpx !important;
+}
+
+.btn {
+	background-color: #527FF4;
+	border-radius: 42rpx;
+	color: #FFFFFF;
+	font-size: 36rpx;
+}
+
+.uv-navbar__content__right {
+	width: 92%;
+	padding: 0 !important;
+}
+
+.uv-notice-bar {
+	background-color: #FFFFFF !important;
+}
+
+.uvicon-volume {
+	display: none !important;
+}
+
+.texthead {
+	color: #636366;
+	font-size: 28rpx;
+	font-weight: bold;
+}
+
+.text {
+	color: #000000;
+	font-size: 32rpx;
+}
+
+.table_head {
+	color: #666666;
+	font-size: 28rpx;
+}
+
+.table_th {
+	color: #333333;
+	font-size: 22rpx;
+}
+
+.head {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.button {
+	width: 155rpx;
+	height: 64rpx;
+	line-height: 64rpx;
+	text-align: center;
+	border-radius: 54rpx;
+	background-color: #FFFFFF;
+}
+
+.whiteContainer {
+	background-color: #FFFFFF;
+	border-radius: 28rpx;
+}
+
+.uv-button {
+	color: #333333;
+	margin: 0 !important;
+	padding: 0 !important;
+	width: 134rpx !important;
+	height: 73rpx !important;
+	border-radius: 20rpx !important;
+	font-size: 24rpx !important;
+	background-color: #FFFFFF;
+}
+
+.uv-col {
+	padding: 0 !important;
+}
+
+.uv-col-3 {
+	margin-left: 2% !important;
+}
+
+.uni-select {
+	height: 73rpx !important;
+	margin: 0 !important;
+	border-radius: 40rpx !important;
+	background-color: #FFFFFF;
+}
+
+.uni-select__input-placeholder {
+	color: #999999 !important;
+	font-size: 26rpx !important;
+}
+
+.uni-pagination__btn {
+	background-color: #FFFFFF !important;
+}
+
+.uni-dialog-title {
+	display: none !important;
+}
+
+.uni-dialog-button-text {
+	color: #333333;
+	font-size: 36rpx;
+}
+
+.uni-border-left {
+	color: #527FF4;
+}
+
+.uni-dialog-title-text {
+	font-size: 36rpx !important;
+	color: #333333 !important;
+}
+
+.uv-switch {
+	width: 98rpx !important;
+	height: 48rpx !important;
+}

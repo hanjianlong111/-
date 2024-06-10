@@ -1,0 +1,53 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/login/index"
+		},
+		{
+			"path": "pages/device/index"
+		},
+		{
+			"path": "pages/account/index"
+		},
+		{
+			"path": "pages/scan/index"
+		},
+		{
+			"path": "pages/account/account"
+		}
+	],
+	"globalStyle": {
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	},
+
+	"uniIdRouter": {},
+	"subPackages": [{
+		"root": "subpack",
+		"pages": [{
+				"path": "account/index"
+			},
+			{
+				"path": "account/add"
+			},
+			{
+				"path": "account/detail"
+			},
+			{
+				"path": "notice/index"
+			},
+			{
+				"path": "device/detail"
+			},
+			{
+				"path": "device/setting"
+			},
+			{
+				"path": "pay/index"
+			}
+		]
+	}]
+}

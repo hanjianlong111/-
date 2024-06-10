@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uv-navbar": "/uni_modules/uv-navbar/components/uv-navbar/uv-navbar",
+    "uv-notice-bar": "/uni_modules/uv-notice-bar/components/uv-notice-bar/uv-notice-bar"
+  },
+  "component": true
+}

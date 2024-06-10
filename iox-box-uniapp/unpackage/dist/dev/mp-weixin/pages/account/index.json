@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "uv-input": "/uni_modules/uv-input/components/uv-input/uv-input",
+    "uv-button": "/uni_modules/uv-button/components/uv-button/uv-button",
+    "uv-skeletons": "/uni_modules/uv-skeletons/components/uv-skeletons/uv-skeletons",
+    "header-vue": "/components/header",
+    "table-vue": "/components/table",
+    "tab-bottom": "/components/tabbar"
+  }
+}

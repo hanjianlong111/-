@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/login/index",
+    "pages/device/index",
+    "pages/account/index",
+    "pages/scan/index",
+    "pages/account/account"
+  ],
+  "subPackages": [
+    {
+      "root": "subpack",
+      "pages": [
+        "account/index",
+        "account/add",
+        "account/detail",
+        "notice/index",
+        "device/detail",
+        "device/setting",
+        "pay/index"
+      ]
+    }
+  ],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

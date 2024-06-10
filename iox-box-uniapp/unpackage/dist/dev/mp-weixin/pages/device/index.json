@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "uv-input": "/uni_modules/uv-input/components/uv-input/uv-input",
+    "uv-row": "/uni_modules/uv-row/components/uv-row/uv-row",
+    "uv-col": "/uni_modules/uv-row/components/uv-col/uv-col",
+    "uni-data-select": "/uni_modules/uni-data-select/components/uni-data-select/uni-data-select",
+    "uv-button": "/uni_modules/uv-button/components/uv-button/uv-button",
+    "uv-skeletons": "/uni_modules/uv-skeletons/components/uv-skeletons/uv-skeletons",
+    "header-vue": "/components/header",
+    "tab-bottom": "/components/tabbar",
+    "table-vue": "/components/table"
+  }
+}
